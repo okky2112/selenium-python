@@ -49,5 +49,5 @@ error_message = driver.find_element(By.ID, "flash").text
 print("Error message:", error_message)
 
 **Folder Project**
-PycharmProjects -> PythonProject -> .venv -> Scripts -> login_success.py & login_invalid.py
+= PycharmProjects -> PythonProject -> .venv -> Scripts -> login_success.py & login_invalid.py
 
